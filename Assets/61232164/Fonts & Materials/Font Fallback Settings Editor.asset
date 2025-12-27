@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d41d6e2b1b8e4199ae434d9e49e78169, type: 3}
+  m_Name: Font Fallback Settings Editor
+  m_EditorClassIdentifier: 
+  font: {fileID: 11400000, guid: 845714096b22dac4bad32cbfba7284a3, type: 2}
+  localizeFallbacks:
+  - language: English
+    fallbacks:
+    - {fileID: 11400000, guid: cb52a6f43b29aaa4ebcd11b40b8bf7d9, type: 2}
+  - language: Japanese
+    fallbacks:
+    - {fileID: 11400000, guid: cb52a6f43b29aaa4ebcd11b40b8bf7d9, type: 2}
+  - language: Korean
+    fallbacks:
+    - {fileID: 11400000, guid: 00c736628dbe5c742ba83d8867f68204, type: 2}
+  - language: ChineseSimplified
+    fallbacks:
+    - {fileID: 11400000, guid: d1afc4e9ddb5efb46ba9769990960fa4, type: 2}
+  - language: ChineseTraditional
+    fallbacks:
+    - {fileID: 11400000, guid: 3c1badb6128edb543ab837e9bc25750c, type: 2}
