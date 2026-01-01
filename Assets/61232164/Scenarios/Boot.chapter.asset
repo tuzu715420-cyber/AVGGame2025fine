@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   chapterName: Boot
   dataList:
-  - {fileID: 11400000, guid: 92207b4ccbd54a840a401b2292ca681a, type: 2}
+  - {fileID: 11400000, guid: da2b00ac3b3046c4dbb14c2f3fcae170, type: 2}
   settingList:
   - rows:
     - rowIndex: 0
@@ -44,11 +44,171 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:Character
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u745E\u4F0A"
+      - 
+      - "\u5931\u843D"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - A Worry.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u6B63\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - A.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - "\u54C0"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - A sad.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - "\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - A happy.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u9A5A\u8A1D"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - A surprise.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u57C3\u62C9\u9054"
+      - 
+      - "\u6B63\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - B.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - "\u54C0"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - B sad.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u6012"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - B anger.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - "\u64D4\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - B Worry.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - 
+      - 
+      - "\u9A5A\u8A1D"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - B surprise.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:Character
     type: 1
-    textLength: 166
+    textLength: 318
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -72,11 +232,86 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:Texture
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC\u666F1"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - beijing1.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u80CC\u666F2"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - beijing2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u80CC\u666F3"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - beijing3.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u80CC\u666F4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - beijing4.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u80CC\u666F5"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - beijing5.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:Texture
     type: 1
-    textLength: 112
+    textLength: 197
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -86,11 +321,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:Particle
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:Particle
     type: 1
     textLength: 13
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -115,11 +350,44 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:Layer
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D\u9593"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6\u908A"
+      - Character
+      - -250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3\u908A"
+      - Character
+      - 250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:Layer
     type: 1
-    textLength: 109
+    textLength: 162
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -142,11 +410,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:EyeBlink
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:EyeBlink
     type: 1
     textLength: 112
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -169,11 +437,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:LipSynch
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:LipSynch
     type: 1
     textLength: 106
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -266,11 +534,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:Animation
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:Animation
     type: 1
     textLength: 93
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -284,11 +552,71 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:Sound
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u6050\u6016"
+      - 
+      - Bgm
+      - fear.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u6292\u60C5"
+      - 
+      - Bgm
+      - Lyric.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u6292\u60C5\u56DE\u61B6"
+      - 
+      - Bgm
+      - Lyrical Memories.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u56DE\u61B6"
+      - 
+      - Bgm
+      - Memories.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u61F8\u7591"
+      - 
+      - Bgm
+      - Suspense.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u6050\u6016\u9078\u932F"
+      - 
+      - Bgm
+      - Terrifying Choice.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:Sound
     type: 1
-    textLength: 37
+    textLength: 153
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -310,11 +638,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:Param
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:Param
     type: 1
     textLength: 50
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -337,11 +665,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:ParamTbl{}
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:ParamTbl{}
     type: 1
     textLength: 16
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -352,11 +680,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:SceneGallery
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:SceneGallery
     type: 1
     textLength: 27
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   - rows:
     - rowIndex: 0
       debugIndex: 0
@@ -365,9 +693,9 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/61232164/Scenarios/61232164.xls:Localize
+    name: Assets/61232164/Scenarios/61232164 1 (1).xls:Localize
     type: 1
     textLength: 3
     headerRow: 0
-    sourceAssetInEditor: {fileID: 102900000, guid: 136c6efff574f1d4db5ad67e6c3b7509, type: 3}
+    sourceAssetInEditor: {fileID: 102900000, guid: 191b00ccf2d76fe429242ee7ffbe2ef5, type: 3}
   customDataList: []

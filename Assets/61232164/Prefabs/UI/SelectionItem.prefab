@@ -85,7 +85,7 @@ MonoBehaviour:
   m_text: "\u9078\u629E\u80A2"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 845714096b22dac4bad32cbfba7284a3, type: 2}
-  m_sharedMaterial: {fileID: 5448154608910584420, guid: cb52a6f43b29aaa4ebcd11b40b8bf7d9, type: 2}
+  m_sharedMaterial: {fileID: -1686075178704036061, guid: 845714096b22dac4bad32cbfba7284a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -220,8 +220,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5d1cb28691cb5e64c9c615aa5cdda076, type: 3}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: b0994f779c97cc445999a9f57f5eb482, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
